@@ -1,0 +1,17 @@
+/* Write your code here. */
+.button {
+  background-color: transparent;
+  outline: none;
+  border-width: 0;
+  cursor: pointer;
+}
+.list-images {
+  list-style-type: none;
+}
+.img {
+  opacity: 0.5;
+}
+
+img:hover {
+  opacity: 1;
+}
